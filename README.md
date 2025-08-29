@@ -5,7 +5,8 @@ Ana Özellikler
 Güvenli Kullanıcı Kimlik Doğrulaması:
 
 Öğrenci Girişi: öğrenciler, benzersiz öğrenci numarası ve şifrelerini kullanarak giriş yapabilirler. Kimlik bilgileri bir veri tabanına karşı doğrulanır.
-
+    ÖRNEK/ Numara : 22334 Şifre : a
+    
 Sekreter Girişi: Sekreter, önceden belirlenmiş kullanıcı adı ( 00000) ve şifre ( 000) ile yönetici paneline erişebilir.
 
 Öğrenci Portalı:
